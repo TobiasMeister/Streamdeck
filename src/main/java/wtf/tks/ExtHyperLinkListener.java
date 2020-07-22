@@ -1,4 +1,4 @@
-package main;
+package wtf.tks;
 
 import java.awt.Desktop;
 import java.io.IOException;
